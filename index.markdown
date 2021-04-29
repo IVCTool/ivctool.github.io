@@ -4,7 +4,6 @@
 
 layout: home
 title: Welcome to the IVCTool
-# background-image: url('/images/header.png')
 ---
 
 
