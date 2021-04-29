@@ -23,7 +23,7 @@ email: reinhard.herzog@iosb.fraunhofer.de
 description: >- # this means to ignore newlines until "baseurl:"
   This is the landing page for the IVCTool. It is currently only a very draft
   version and will be updated in the next weeks.
-baseurl: "/ivctool.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/IVCTool/ivctool.github.io" # the subpath of your site, e.g. /blog
 url: "https://ivctool.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ReinhardHzg
 github_username:  rhzg
