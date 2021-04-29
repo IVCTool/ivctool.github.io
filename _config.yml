@@ -29,7 +29,7 @@ twitter_username: ReinhardHzg
 github_username:  rhzg
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
