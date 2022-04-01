@@ -10,7 +10,7 @@ title: Welcome to the IVCTool
 ![header](/images/header.png)
 
 
-## The **I**ntegration, **V**erification and **C**ertification **Tool**
+## The **I**ntegration, **V**erification and **C**ertification **T**esting (IVCT) Tool
 
 Distributed simulations are composed of individually developed systems following interoperability patterns. The correctness of the resulting federation depends on the compliance of the involved systems to the federation agreements. The IVCTools is designed to support the compliance testing during the integration of simulation systems, the verification of their behavior and finally the formal certification of a federates conformance statement. 
 
