@@ -14,7 +14,7 @@ title: Welcome to the IVCTool
 
 Distributed simulations are composed of individually developed systems following interoperability patterns. The correctness of the resulting federation depends on the compliance of the involved systems to the federation agreements. The IVCTools is designed to support the compliance testing during the integration of simulation systems, the verification of their behavior and finally the formal certification of a federates conformance statement. 
 
-As a typical user of the IVCTool software you should have a look into the [IVCT Operation][ivct-operation] repository. This will give you instructions on how to obtain and run the IVCTool. In case you are interested in understanding how test case are working, you find information's on that in the [IVCT TestSuite Development][ivct-tutorial] repository. It will also teach you how to write you own test cases. If you want to learn about the very core components, you find that in the [IVCT Framework][ivct-framework] repository. That will show you how the IVCTool works and how the magic happens.
+If you are new the the framework, you probably like to start with the [IVCT Operation][ivct-operation] repository. This will give you instructions on how to obtain and run the IVCTool. In case you are interested in understanding how test case are working, you find information's on that in the [IVCT TestSuite Development][ivct-tutorial] repository. It will also teach you how to write you own test cases. If you want to learn about the very core components, you find that in the [IVCT Framework][ivct-framework] repository. That will show you how the IVCTool works and how the magic happens.
 
 ![ivct logo](/images/logo.png){:height="20%" width="20%"} 
 
